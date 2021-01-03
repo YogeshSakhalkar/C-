@@ -1,0 +1,23 @@
+﻿Build started 19-08-2020 14:45:41.
+     1>Project "D:\study\c\C++\Binary Search\Binary Search\Binary Search.vcxproj" on node 2 (Build target(s)).
+     1>PrepareForBuild:
+         Creating directory "D:\study\c\C++\Binary Search\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\Binary Search.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "Binary Search.cpp"
+         Binary Search.cpp
+     1>d:\study\c\c++\binary search\binary search\binary search.cpp(46): warning C4129: 'N' : unrecognized character escape sequence
+     1>d:\study\c\c++\binary search\binary search\binary search.cpp(33): warning C4101: 'n' : unreferenced local variable
+     1>d:\study\c\c++\binary search\binary search\binary search.cpp(28): warning C4715: 'binary_search::search' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\study\c\C++\Binary Search\Debug\Binary Search.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\study\c\C++\Binary Search\Debug\Binary Search.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\study\c\C++\Binary Search\Debug\Binary Search.lib" /MACHINE:X86 "Debug\Binary Search.obj"
+         Binary Search.vcxproj -> D:\study\c\C++\Binary Search\Debug\Binary Search.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Binary Search.unsuccessfulbuild".
+         Touching "Debug\Binary Search.lastbuildstate".
+     1>Done Building Project "D:\study\c\C++\Binary Search\Binary Search\Binary Search.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:19.04

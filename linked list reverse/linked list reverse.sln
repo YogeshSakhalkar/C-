@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "linked list reverse", "linked list reverse\linked list reverse.vcxproj", "{D24114DF-8F07-41FA-B9A0-2E99151C35E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D24114DF-8F07-41FA-B9A0-2E99151C35E7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D24114DF-8F07-41FA-B9A0-2E99151C35E7}.Debug|Win32.Build.0 = Debug|Win32
+		{D24114DF-8F07-41FA-B9A0-2E99151C35E7}.Release|Win32.ActiveCfg = Release|Win32
+		{D24114DF-8F07-41FA-B9A0-2E99151C35E7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

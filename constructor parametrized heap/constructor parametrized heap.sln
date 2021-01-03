@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "constructor parametrized heap", "constructor parametrized heap\constructor parametrized heap.vcxproj", "{FF8CBB36-18A2-4A4A-9026-3E124395A2CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF8CBB36-18A2-4A4A-9026-3E124395A2CE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FF8CBB36-18A2-4A4A-9026-3E124395A2CE}.Debug|Win32.Build.0 = Debug|Win32
+		{FF8CBB36-18A2-4A4A-9026-3E124395A2CE}.Release|Win32.ActiveCfg = Release|Win32
+		{FF8CBB36-18A2-4A4A-9026-3E124395A2CE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

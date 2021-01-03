@@ -1,0 +1,21 @@
+﻿Build started 14-07-2020 19:38:07.
+     1>Project "D:\study\c\C++\constructor circle parameterized\constructor circle parameterized\constructor circle parameterized.vcxproj" on node 2 (Build target(s)).
+     1>PrepareForBuild:
+         Creating directory "D:\study\c\C++\constructor circle parameterized\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\constructor circle parameterized.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>d:\study\c\c++\constructor circle parameterized\constructor circle parameterized\source.cpp(9): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\study\c\C++\constructor circle parameterized\Debug\constructor circle parameterized.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\study\c\C++\constructor circle parameterized\Debug\constructor circle parameterized.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\study\c\C++\constructor circle parameterized\Debug\constructor circle parameterized.lib" /MACHINE:X86 Debug\Source.obj
+         constructor circle parameterized.vcxproj -> D:\study\c\C++\constructor circle parameterized\Debug\constructor circle parameterized.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\constructor circle parameterized.unsuccessfulbuild".
+         Touching "Debug\constructor circle parameterized.lastbuildstate".
+     1>Done Building Project "D:\study\c\C++\constructor circle parameterized\constructor circle parameterized\constructor circle parameterized.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.32

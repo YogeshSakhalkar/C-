@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "admin class", "admin class\admin class.vcxproj", "{BB8A162E-3DBF-4450-9802-562A4AF6E282}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB8A162E-3DBF-4450-9802-562A4AF6E282}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BB8A162E-3DBF-4450-9802-562A4AF6E282}.Debug|Win32.Build.0 = Debug|Win32
+		{BB8A162E-3DBF-4450-9802-562A4AF6E282}.Release|Win32.ActiveCfg = Release|Win32
+		{BB8A162E-3DBF-4450-9802-562A4AF6E282}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
